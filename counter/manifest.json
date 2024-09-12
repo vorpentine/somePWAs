@@ -1,0 +1,22 @@
+{
+  "name": "Two Counters PWA",
+  "short_name": "Counters",
+  "description": "A simple PWA with two counters",
+  "start_url": "/counter/",
+  "display": "standalone",
+  "background_color": "#f4f4f9",
+  "theme_color": "#317EFB",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
